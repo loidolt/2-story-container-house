@@ -1,0 +1,9 @@
+ISO Steel Shipping Container Specifications
+
+Racking/Shear Load of the shipping container (corner posts) 16,000 lb
+Side Wall Lateral Load of the shipping container 235 psf
+End Wall Lateral Load of the shipping container 366psf
+Racking/Shear Load of the shipping container 33,500 lb
+Stacking/ Axil Load of the shipping container 210,000 lb
+Roof Load of the shipping container 300psf
+Floor Load of the shipping container 100 psf
